@@ -1,4 +1,4 @@
-21434010928628485
+21435688873014886
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -34387,6 +34387,13 @@ Connector_PinHeader_2.54mm
 PinHeader_2x03_P2.54mm_Horizontal
 Through hole angled pin header, 2x03, 2.54mm pitch, 6mm pin length, double rows
 Through hole angled pin header THT 2x03 2.54mm double row
+0
+6
+6
+Connector_PinHeader_2.54mm
+PinHeader_2x03_P2.54mm_Horizontal_SMD
+surface-mounted straight pin header, 2x03, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x03 2.54mm double row
 0
 6
 6
@@ -81842,7 +81849,7 @@ C&K_D6R
 
 0
 6
-6
+4
 Supercell 1.3
 C0603
 <b>CAPACITOR</b>
