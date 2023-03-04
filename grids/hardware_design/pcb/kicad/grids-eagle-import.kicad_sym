@@ -32181,14 +32181,6 @@
     (symbol "PJ301WQP_1_0"
       (polyline
         (pts
-          (xy -2.54 -5.08)
-          (xy -2.54 -2.54)
-        )
-        (stroke (width 0.127) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
           (xy -2.54 -2.54)
           (xy 4.572 -2.54)
         )
@@ -32266,10 +32258,6 @@
       (pin passive line (at -5.08 -2.54 0) (length 2.54)
         (name "1" (effects (font (size 0 0))))
         (number "GND" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at -5.08 -5.08 0) (length 2.54)
-        (name "4" (effects (font (size 0 0))))
-        (number "GND2" (effects (font (size 1.27 1.27))))
       )
       (pin passive line (at -5.08 0 0) (length 2.54)
         (name "3" (effects (font (size 0 0))))
