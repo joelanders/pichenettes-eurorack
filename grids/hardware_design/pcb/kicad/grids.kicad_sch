@@ -10127,46 +10127,46 @@
       (reference "IC7") (unit 1) (value "LM1117-5.0") (footprint "grids:SOT223")
     )
     (path "/71ca2860-11e6-416d-8761-f53100379f7a"
-      (reference "J1") (unit 1) (value "PJ301WQP") (footprint "grids:WQP_PJ_301BM")
+      (reference "J1") (unit 1) (value "PJ301WQP") (footprint "marbles:WQP_PJ_301M6")
     )
     (path "/30a11145-1455-4fba-8de9-21e37761e302"
-      (reference "J2") (unit 1) (value "PJ301WQP") (footprint "grids:WQP_PJ_301BM")
+      (reference "J2") (unit 1) (value "PJ301WQP") (footprint "marbles:WQP_PJ_301M6")
     )
     (path "/5cc1618b-6d32-4347-af0f-49cbebb7eece"
-      (reference "J3") (unit 1) (value "PJ301WQP") (footprint "grids:WQP_PJ_301BM")
+      (reference "J3") (unit 1) (value "PJ301WQP") (footprint "marbles:WQP_PJ_301M6")
     )
     (path "/d8ca2832-ff96-49fa-9bc4-bc5d91d68cc9"
-      (reference "J4") (unit 1) (value "PJ301WQP") (footprint "grids:WQP_PJ_301BM")
+      (reference "J4") (unit 1) (value "PJ301WQP") (footprint "marbles:WQP_PJ_301M6")
     )
     (path "/a8eeafce-2d83-4fde-b9c4-92a7079d5659"
-      (reference "J5") (unit 1) (value "PJ301WQP") (footprint "grids:WQP_PJ_301BM")
+      (reference "J5") (unit 1) (value "PJ301WQP") (footprint "marbles:WQP_PJ_301M6")
     )
     (path "/cf6bffe7-0efe-4d4d-a082-780829621a11"
-      (reference "J6") (unit 1) (value "PJ301WQP") (footprint "grids:WQP_PJ_301BM")
+      (reference "J6") (unit 1) (value "PJ301WQP") (footprint "marbles:WQP_PJ_301M6")
     )
     (path "/98f6de69-060a-4897-85b5-6e86f5ced889"
-      (reference "J7") (unit 1) (value "PJ301WQP") (footprint "grids:WQP_PJ_301BM")
+      (reference "J7") (unit 1) (value "PJ301WQP") (footprint "marbles:WQP_PJ_301M6")
     )
     (path "/b77eaee1-e483-4dfc-8d22-7f3b0e57db26"
-      (reference "J8") (unit 1) (value "PJ301WQP") (footprint "grids:WQP_PJ_301BM")
+      (reference "J8") (unit 1) (value "PJ301WQP") (footprint "marbles:WQP_PJ_301M6")
     )
     (path "/9f8db3de-c0ac-469d-b88f-87e93efc57f0"
-      (reference "J9") (unit 1) (value "PJ301WQP") (footprint "grids:WQP_PJ_301BM")
+      (reference "J9") (unit 1) (value "PJ301WQP") (footprint "marbles:WQP_PJ_301M6")
     )
     (path "/4e5ec6bb-7332-4025-9240-b04fda94c84b"
-      (reference "J10") (unit 1) (value "PJ301WQP") (footprint "grids:WQP_PJ_301BM")
+      (reference "J10") (unit 1) (value "PJ301WQP") (footprint "marbles:WQP_PJ_301M6")
     )
     (path "/9cd3112a-0e99-4443-a57b-981a9db1fcef"
-      (reference "J11") (unit 1) (value "PJ301WQP") (footprint "grids:WQP_PJ_301BM")
+      (reference "J11") (unit 1) (value "PJ301WQP") (footprint "marbles:WQP_PJ_301M6")
     )
     (path "/5a62ecb5-c61e-42dc-ae7e-5393eaaa4f3d"
-      (reference "J12") (unit 1) (value "PJ301WQP") (footprint "grids:WQP_PJ_301BM")
+      (reference "J12") (unit 1) (value "PJ301WQP") (footprint "marbles:WQP_PJ_301M6")
     )
     (path "/d8d96736-151c-4861-b782-7530cab62ac8"
-      (reference "J13") (unit 1) (value "PJ301WQP") (footprint "grids:WQP_PJ_301BM")
+      (reference "J13") (unit 1) (value "PJ301WQP") (footprint "marbles:WQP_PJ_301M6")
     )
     (path "/69d43f2f-07f8-4b25-958f-0368737262d1"
-      (reference "J14") (unit 1) (value "PJ301WQP") (footprint "grids:WQP_PJ_301BM")
+      (reference "J14") (unit 1) (value "PJ301WQP") (footprint "marbles:WQP_PJ_301M6")
     )
     (path "/9d5b32f5-12ed-44c9-ad3f-f76d00731501"
       (reference "J15") (unit 1) (value "AVR_SPI_PRG_6PTH") (footprint "grids:2X3")
