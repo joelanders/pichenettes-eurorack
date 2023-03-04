@@ -491,7 +491,7 @@
       (reference "JP1") (unit 1) (value "M05X2PTH") (footprint "braids:AVR_ICSP")
     )
     (path "/6074bf66-130c-4270-85b0-0309fb1132f3/6ffa77db-dca8-4c4f-8c5f-096412cfcbc5"
-      (reference "JP2") (unit 1) (value "M05X2MINIJTAG") (footprint "braids:2X5-1.27")
+      (reference "JP2") (unit 1) (value "M05X2MINIJTAG") (footprint "braids:AVR_ICSP")
     )
     (path "/6074bf66-130c-4270-85b0-0309fb1132f3/18bf1ab9-d243-450b-a85d-8004109eba43"
       (reference "Q1") (unit 1) (value "MMBT3904") (footprint "braids:SOT23-BEC")
