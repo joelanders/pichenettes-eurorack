@@ -103,9 +103,6 @@
     (path "/6074bf66-130c-4270-85b0-0309fb1132f3/fc3248db-f29d-434e-8703-5373b52e3e61"
       (reference "#+3V18") (unit 1) (value "+3V3") (footprint "braids:")
     )
-    (path "/6074bf66-130c-4270-85b0-0309fb1132f3/3e264e6c-52f4-4638-8e18-69682de5cb7d"
-      (reference "#FRAME1") (unit 1) (value "A3L-LOC") (footprint "braids:")
-    )
     (path "/252acb38-1886-4970-95fc-858a2523bfff/d1b0a254-86d4-4bff-8934-89004c7ce61e"
       (reference "#FRAME2") (unit 1) (value "A3L-LOC") (footprint "braids:")
     )
