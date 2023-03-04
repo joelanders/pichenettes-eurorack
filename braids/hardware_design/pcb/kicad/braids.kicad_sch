@@ -296,7 +296,7 @@
       (reference "#SUPPLY05") (unit 1) (value "VEE") (footprint "braids:")
     )
     (path "/6074bf66-130c-4270-85b0-0309fb1132f3/92140ad6-467d-41dd-a431-99e85ca108ab"
-      (reference "C1") (unit 1) (value "100n") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Horizontal_SMD")
+      (reference "C1") (unit 1) (value "100n") (footprint "braids:C0603")
     )
     (path "/6074bf66-130c-4270-85b0-0309fb1132f3/f5be867f-f58c-44d2-8d99-7f8762070302"
       (reference "C2") (unit 1) (value "100n") (footprint "braids:C0603")
