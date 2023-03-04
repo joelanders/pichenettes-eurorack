@@ -736,13 +736,13 @@
       (reference "IC13") (unit 5) (value "MCP6004") (footprint "elements:SO14")
     )
     (path "/5bf7cc08-c693-427d-b7ff-d794e9a94931/10e649ac-2ef8-4e9b-9275-487fd355bc41"
-      (reference "IC14") (unit 1) (value "LME49720") (footprint "elements:SO08")
+      (reference "IC14") (unit 1) (value "TL072") (footprint "elements:SO08")
     )
     (path "/5bf7cc08-c693-427d-b7ff-d794e9a94931/b932c37c-6089-49ec-ab8d-934457438ac9"
-      (reference "IC14") (unit 2) (value "LME49720") (footprint "elements:SO08")
+      (reference "IC14") (unit 2) (value "TL072") (footprint "elements:SO08")
     )
     (path "/5bf7cc08-c693-427d-b7ff-d794e9a94931/2cb5658e-5e10-4bf1-a088-bb7fa434fb43"
-      (reference "IC14") (unit 3) (value "LME49720") (footprint "elements:SO08")
+      (reference "IC14") (unit 3) (value "TL072") (footprint "elements:SO08")
     )
     (path "/f85be74c-b1a8-4919-b29c-b268ce8990ee/c4652cb6-5151-496f-91d0-71c2275c8e7c"
       (reference "J1") (unit 1) (value "PJ301_THONKICONN6") (footprint "elements:WQP_PJ_301M6")
