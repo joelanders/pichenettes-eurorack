@@ -1,4 +1,4 @@
-21444101614268126
+21445779628599932
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -81993,6 +81993,13 @@ S_JACK_CLOSE
 Supercell 1.3
 TACTILE-PTH
 <b>OMRON SWITCH</b>
+
+0
+4
+4
+Supercell 1.3
+k2-1808 pushbutton switch
+
 
 0
 4

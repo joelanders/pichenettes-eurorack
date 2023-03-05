@@ -1090,10 +1090,10 @@
       (reference "SW1") (unit 1) (value "SW_MEC_5G_2LED") (footprint "Supercell 1.3:C&K_D6R")
     )
     (path "/32404d8a-22a1-42b6-977b-bd9494bee6d6/34e872d8-02d5-48a4-b4f9-3138feaf5f95"
-      (reference "SW2") (unit 1) (value "EVQQ2") (footprint "elements:EVQ-Q2")
+      (reference "SW2") (unit 1) (value "EVQQ2") (footprint "Supercell 1.3:k2-1808 pushbutton switch")
     )
     (path "/32404d8a-22a1-42b6-977b-bd9494bee6d6/008d4c91-afa6-4b5b-a15c-82434cdce59f"
-      (reference "SW3") (unit 1) (value "EVQQ2") (footprint "elements:EVQ-Q2")
+      (reference "SW3") (unit 1) (value "EVQQ2") (footprint "Supercell 1.3:k2-1808 pushbutton switch")
     )
     (path "/2ce19514-f492-49ed-adef-f93a720e8bf9/be4eeb40-1aee-4085-957f-9a0d32d91509"
       (reference "TP1") (unit 1) (value "ADC_TEST") (footprint "elements:PAD.03X.03")
