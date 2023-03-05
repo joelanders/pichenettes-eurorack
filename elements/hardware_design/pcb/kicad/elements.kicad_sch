@@ -108,9 +108,6 @@
     (path "/f85be74c-b1a8-4919-b29c-b268ce8990ee/f4e93c79-6065-4097-bb79-e682b9e2039d"
       (reference "#FRAME1") (unit 1) (value "A3L-LOC") (footprint "elements:")
     )
-    (path "/e3e0407c-7e30-4ac6-b5bb-10c3f216a55b/e94c5051-e2a0-4341-b2c5-f27e69809571"
-      (reference "#FRAME2") (unit 1) (value "A3L-LOC") (footprint "elements:")
-    )
     (path "/5bf7cc08-c693-427d-b7ff-d794e9a94931/ea5394de-af4a-484e-a842-e64340b15e1b"
       (reference "#FRAME5") (unit 1) (value "A3L-LOC") (footprint "elements:")
     )
@@ -122,9 +119,6 @@
     )
     (path "/f85be74c-b1a8-4919-b29c-b268ce8990ee/088ca5e1-201a-44f2-97ee-139c05bd4df6"
       (reference "#GND03") (unit 1) (value "GND") (footprint "elements:")
-    )
-    (path "/e3e0407c-7e30-4ac6-b5bb-10c3f216a55b/c2429b7a-fa6c-4f68-b947-7f33714ba203"
-      (reference "#GND04") (unit 1) (value "GND") (footprint "elements:")
     )
     (path "/32404d8a-22a1-42b6-977b-bd9494bee6d6/17234d4c-ee65-4652-9746-8ec940085458"
       (reference "#GND05") (unit 1) (value "GND") (footprint "elements:")
@@ -428,6 +422,9 @@
     )
     (path "/32404d8a-22a1-42b6-977b-bd9494bee6d6/cd66dbbf-b92a-403b-8cf5-c0b8712c275a"
       (reference "#GND0109") (unit 1) (value "GND") (footprint "elements:")
+    )
+    (path "/e3e0407c-7e30-4ac6-b5bb-10c3f216a55b/89b08bd0-5300-490f-8b02-33923a9db753"
+      (reference "#GND0110") (unit 1) (value "GND") (footprint "elements:")
     )
     (path "/5bf7cc08-c693-427d-b7ff-d794e9a94931/25af8e68-eac5-412c-b946-019b74297dda"
       (reference "#P+01") (unit 1) (value "VCC") (footprint "elements:")
@@ -791,6 +788,9 @@
     )
     (path "/f85be74c-b1a8-4919-b29c-b268ce8990ee/cc80f864-1dad-45f9-97ba-2b36d635fd63"
       (reference "J18") (unit 1) (value "PJ301_THONKICONN6") (footprint "elements:WQP_PJ_301M6")
+    )
+    (path "/e3e0407c-7e30-4ac6-b5bb-10c3f216a55b/32feb493-7412-458f-a4c1-6b7545f78aa1"
+      (reference "J19") (unit 1) (value "Conn_02x05_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical_SMD")
     )
     (path "/32404d8a-22a1-42b6-977b-bd9494bee6d6/e9551611-4abc-4e4a-b772-76f68b676dcf"
       (reference "JP1") (unit 1) (value "M05X2MINIJTAG") (footprint "elements:2X5-1.27")
