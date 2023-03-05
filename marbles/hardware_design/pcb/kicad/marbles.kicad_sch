@@ -102,9 +102,6 @@
     (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/d1b1d641-0c43-47f4-b70f-33f9a70a92c1"
       (reference "#+3V013") (unit 1) (value "+3V3") (footprint "marbles:")
     )
-    (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/ed3a796e-5c84-481b-8a5e-baa61636da52"
-      (reference "#FRAME1") (unit 1) (value "A3L-LOC") (footprint "marbles:")
-    )
     (path "/04bafc9c-479e-4bd4-b799-cf4989325499/0859069c-e2fd-4e1e-8834-8b292ffa17ef"
       (reference "#FRAME2") (unit 1) (value "A3L-LOC") (footprint "marbles:")
     )
@@ -831,23 +828,44 @@
     (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/9799d2e0-e11e-46fd-9d35-f2d25ec58b04"
       (reference "LED6") (unit 1) (value "WP937EGW") (footprint "marbles:LED3MM")
     )
+    (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/b6ef2b1c-9a0a-42e8-9b0c-7c1babd14bdc"
+      (reference "LED6-2") (unit 1) (value "LED_Dual_KAKA") (footprint "Supercell 1.3:bicolor 0606 LED")
+    )
     (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/548f1946-ea84-485a-89b0-8086288d662f"
       (reference "LED7") (unit 1) (value "WP937EGW") (footprint "marbles:LED3MM")
+    )
+    (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/c81bd104-541d-4aaa-b012-a7a76e62a8bd"
+      (reference "LED7-2") (unit 1) (value "LED_Dual_KAKA") (footprint "Supercell 1.3:bicolor 0606 LED")
     )
     (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/be4e6d88-1361-499c-b295-ad7560cc979f"
       (reference "LED8") (unit 1) (value "WP937EGW") (footprint "marbles:LED3MM")
     )
+    (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/2fdefc22-8f5e-465b-8dad-f1d45f3d012c"
+      (reference "LED8-2") (unit 1) (value "LED_Dual_KAKA") (footprint "Supercell 1.3:bicolor 0606 LED")
+    )
     (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/c80671be-6a2d-464c-8cb2-61658a75a74d"
       (reference "LED9") (unit 1) (value "WP937EGW") (footprint "marbles:LED3MM")
+    )
+    (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/61055b1b-9599-4dfd-809b-39d15d9b56b0"
+      (reference "LED9-2") (unit 1) (value "LED_Dual_KAKA") (footprint "Supercell 1.3:bicolor 0606 LED")
     )
     (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/76bd50b0-a149-4b50-8c92-4216862dcaaa"
       (reference "LED10") (unit 1) (value "WP937EGW") (footprint "marbles:LED3MM")
     )
+    (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/bfcfbff1-6478-4369-9e90-5852847e228a"
+      (reference "LED10-2") (unit 1) (value "LED_Dual_KAKA") (footprint "Supercell 1.3:bicolor 0606 LED")
+    )
     (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/0fc3711a-e4c6-4344-ab57-8f9027093d41"
       (reference "LED11") (unit 1) (value "WP937EGW") (footprint "marbles:LED3MM")
     )
+    (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/dd616f1e-741f-4277-b0c7-bb4423cb0762"
+      (reference "LED11-2") (unit 1) (value "LED_Dual_KAKA") (footprint "Supercell 1.3:bicolor 0606 LED")
+    )
     (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/c9838745-454b-45c4-bc46-d9f54a6c87aa"
       (reference "LED12") (unit 1) (value "WP937EGW") (footprint "marbles:LED3MM")
+    )
+    (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/1c36bcaa-d6f8-4700-b6d6-c547fd309f6e"
+      (reference "LED12-2") (unit 1) (value "LED_Dual_KAKA") (footprint "Supercell 1.3:bicolor 0606 LED")
     )
     (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/95655002-ff0a-40ec-b3d2-315cca7d2d2e"
       (reference "Q1") (unit 1) (value "8MHz") (footprint "marbles:CTS406")
