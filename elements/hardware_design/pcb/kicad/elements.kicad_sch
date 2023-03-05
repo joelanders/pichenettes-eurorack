@@ -813,6 +813,12 @@
     (path "/32404d8a-22a1-42b6-977b-bd9494bee6d6/d9318642-3c04-460b-be0d-78552ece7e7c"
       (reference "LED2") (unit 1) (value "SSL-LX5093PC") (footprint "elements:LED5MM")
     )
+    (path "/32404d8a-22a1-42b6-977b-bd9494bee6d6/bdc6fc61-8371-412c-842d-3db95e216553"
+      (reference "LED3") (unit 1) (value "SSL-LX5093TC") (footprint "LED_SMD:LED_0603_1608Metric")
+    )
+    (path "/32404d8a-22a1-42b6-977b-bd9494bee6d6/da85969e-8169-4984-befc-2f0f82dddfbd"
+      (reference "LED4") (unit 1) (value "SSL-LX5093PC") (footprint "LED_SMD:LED_0603_1608Metric")
+    )
     (path "/32404d8a-22a1-42b6-977b-bd9494bee6d6/7cea595d-6c83-4ca3-9f8d-d1246aef03cb"
       (reference "Q1") (unit 1) (value "8MHz") (footprint "elements:HC49UP")
     )
