@@ -564,9 +564,6 @@
     (path "/2ce19514-f492-49ed-adef-f93a720e8bf9/70b6e288-ae75-4cd7-b69f-cb13028ed636"
       (reference "C37") (unit 1) (value "100n") (footprint "elements:C0603")
     )
-    (path "/32404d8a-22a1-42b6-977b-bd9494bee6d6/e6e93d3f-657d-415a-a55f-5cc784f7226f"
-      (reference "C38") (unit 1) (value "100n") (footprint "elements:C0603")
-    )
     (path "/32404d8a-22a1-42b6-977b-bd9494bee6d6/5fb800c1-9164-4478-87d3-aa327733ef8b"
       (reference "C39") (unit 1) (value "100n") (footprint "elements:C0603")
     )
