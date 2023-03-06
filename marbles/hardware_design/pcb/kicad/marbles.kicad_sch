@@ -99,11 +99,11 @@
     (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/d1b1d641-0c43-47f4-b70f-33f9a70a92c1"
       (reference "#+3V013") (unit 1) (value "+3V3") (footprint "marbles:")
     )
-    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/33514ba5-8490-41b6-85ad-c03fdd88c7f3"
-      (reference "#+3V?") (unit 1) (value "+3V3") (footprint "marbles:")
-    )
     (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/4a9cca23-a47d-49e8-a4a4-26ff904a5050"
-      (reference "#+3V?") (unit 1) (value "+3V3") (footprint "marbles:")
+      (reference "#+3V0101") (unit 1) (value "+3V3") (footprint "marbles:")
+    )
+    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/33514ba5-8490-41b6-85ad-c03fdd88c7f3"
+      (reference "#+3V0102") (unit 1) (value "+3V3") (footprint "marbles:")
     )
     (path "/04bafc9c-479e-4bd4-b799-cf4989325499/0859069c-e2fd-4e1e-8834-8b292ffa17ef"
       (reference "#FRAME2") (unit 1) (value "A3L-LOC") (footprint "marbles:")
@@ -408,17 +408,17 @@
     (path "/355d6d2b-346c-465e-af41-72f951bca644/4d10cdd2-5405-46f2-b52c-e6f09b89d4e5"
       (reference "#GND0107") (unit 1) (value "GND") (footprint "marbles:")
     )
-    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/10fe7a18-c1e3-4a4d-a6c2-284177465b77"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "marbles:")
-    )
-    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/4081394a-7f39-43c5-8670-2644b30df634"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "marbles:")
+    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/eff8f61d-bc54-48f6-acb5-231afce69d23"
+      (reference "#GND0108") (unit 1) (value "GND") (footprint "marbles:")
     )
     (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/c2aa9c63-23db-4ffe-a920-9164e90c347c"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "marbles:")
+      (reference "#GND0109") (unit 1) (value "GND") (footprint "marbles:")
     )
-    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/eff8f61d-bc54-48f6-acb5-231afce69d23"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "marbles:")
+    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/10fe7a18-c1e3-4a4d-a6c2-284177465b77"
+      (reference "#GND0110") (unit 1) (value "GND") (footprint "marbles:")
+    )
+    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/4081394a-7f39-43c5-8670-2644b30df634"
+      (reference "#GND0111") (unit 1) (value "GND") (footprint "marbles:")
     )
     (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/fd3ab9a1-4e83-4c98-90b1-1e746118bc99"
       (reference "#P+01") (unit 1) (value "VCC") (footprint "marbles:")
@@ -776,6 +776,9 @@
     )
     (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/3e6e9dc7-10b4-4762-9f28-5d2f10c6d321"
       (reference "J16") (unit 1) (value "PJ301_THONKICONN6") (footprint "marbles:WQP_PJ_301M6")
+    )
+    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/26532f8f-e0e3-4ea8-b059-6c6304ebbca0"
+      (reference "J17") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical_SMD_Pin1Left")
     )
     (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/b8fcc6c1-d8f6-4926-84b8-f4fe31ca325b"
       (reference "JP1") (unit 1) (value "M04PTH") (footprint "marbles:1X04")
