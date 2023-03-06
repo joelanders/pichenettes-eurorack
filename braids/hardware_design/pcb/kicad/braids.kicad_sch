@@ -91,9 +91,6 @@
     (path "/4ab27031-27b9-46d7-9204-e7f95fa6f935/f25839ae-ab99-40e3-ad28-86b4d710ffc9"
       (reference "#+3V014") (unit 1) (value "+3V3") (footprint "braids:")
     )
-    (path "/6074bf66-130c-4270-85b0-0309fb1132f3/a9e3e079-ea8e-4b9c-b1e9-dad4616da2da"
-      (reference "#+3V015") (unit 1) (value "+3V3") (footprint "braids:")
-    )
     (path "/4ab27031-27b9-46d7-9204-e7f95fa6f935/883b0d43-14d9-498f-b5a7-745d564bb24a"
       (reference "#+3V016") (unit 1) (value "+3V3") (footprint "braids:")
     )
@@ -102,6 +99,9 @@
     )
     (path "/6074bf66-130c-4270-85b0-0309fb1132f3/fc3248db-f29d-434e-8703-5373b52e3e61"
       (reference "#+3V018") (unit 1) (value "+3V3") (footprint "braids:")
+    )
+    (path "/6074bf66-130c-4270-85b0-0309fb1132f3/6338bd65-0643-4152-b5cb-b244cf552e58"
+      (reference "#+3V?") (unit 1) (value "+3V3") (footprint "braids:")
     )
     (path "/252acb38-1886-4970-95fc-858a2523bfff/d1b0a254-86d4-4bff-8934-89004c7ce61e"
       (reference "#FRAME2") (unit 1) (value "A3L-LOC") (footprint "braids:")
@@ -138,12 +138,6 @@
     )
     (path "/6074bf66-130c-4270-85b0-0309fb1132f3/bea9cc59-90e6-42b2-a5c8-3011017252ba"
       (reference "#GND010") (unit 1) (value "GND") (footprint "braids:")
-    )
-    (path "/6074bf66-130c-4270-85b0-0309fb1132f3/a3e2184f-941a-4582-a664-f32e0dc3203b"
-      (reference "#GND011") (unit 1) (value "GND") (footprint "braids:")
-    )
-    (path "/6074bf66-130c-4270-85b0-0309fb1132f3/dfe01382-01ea-4a87-877f-67b1bc96034c"
-      (reference "#GND012") (unit 1) (value "GND") (footprint "braids:")
     )
     (path "/4ab27031-27b9-46d7-9204-e7f95fa6f935/52991af7-269c-4979-be7c-f740a99e99d9"
       (reference "#GND013") (unit 1) (value "GND") (footprint "braids:")
@@ -270,6 +264,12 @@
     )
     (path "/6074bf66-130c-4270-85b0-0309fb1132f3/6a7cd73a-4def-4b42-8753-3279e34306b2"
       (reference "#GND0101") (unit 1) (value "GND") (footprint "braids:")
+    )
+    (path "/6074bf66-130c-4270-85b0-0309fb1132f3/3fd6e4f2-8b41-4822-b24e-7eee1fc5c4b6"
+      (reference "#GND?") (unit 1) (value "GND") (footprint "braids:")
+    )
+    (path "/6074bf66-130c-4270-85b0-0309fb1132f3/ed9e9fee-1fa5-409a-a0c0-ec9a8bcbf664"
+      (reference "#GND?") (unit 1) (value "GND") (footprint "braids:")
     )
     (path "/252acb38-1886-4970-95fc-858a2523bfff/e0b8665a-23e2-4438-97c5-0fa7bcf8394f"
       (reference "#P+02") (unit 1) (value "VCC") (footprint "braids:")
@@ -415,8 +415,8 @@
     (path "/252acb38-1886-4970-95fc-858a2523bfff/b9388842-4a21-4ff8-894e-b81b82ace843"
       (reference "IC3") (unit 1) (value "LM4040B25") (footprint "braids:DBZ_R-PDSO-G3")
     )
-    (path "/6074bf66-130c-4270-85b0-0309fb1132f3/691b44a0-a8e2-46d3-8a2b-ac015c78717f"
-      (reference "IC4") (unit 1) (value "MCP3204") (footprint "braids:SO14")
+    (path "/6074bf66-130c-4270-85b0-0309fb1132f3/f545660d-6605-40ca-af8d-bdf43ffcf7dc"
+      (reference "IC4") (unit 1) (value "MCP3208") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/6074bf66-130c-4270-85b0-0309fb1132f3/911abac0-63c0-427f-b2b0-7821f0904cd5"
       (reference "IC5") (unit 1) (value "DAC8551") (footprint "braids:MSOP-8")
