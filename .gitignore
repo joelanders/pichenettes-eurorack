@@ -25,7 +25,7 @@
 *assembly.zip
 *top.pdf
 *bottom.pdf
-*.csv
+# *.csv
 *partlist.txt
 *.zip
 
