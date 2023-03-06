@@ -1,5 +1,4 @@
-braids-bom;;;;;;
-Designator;Package;Quantity;Designation;LCSC;Designator;
+Designator;Footprint;Quantity;Comment;LCSC;Description;
 R5,R16,R12,R4,R7,R17,R18,R6,R15,R10,R9,R14,R13,R8;R0603;14;100;C22775;1/10W Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 100Ω 0603  Chip Resistor - Surface Mount ROHS;
 R51;R0603;1;330;C23138;1/10W Thick Film Resistors 75V ±1% ±100ppm/℃ -55℃~+155℃ 330Ω 0603  Chip Resistor - Surface Mount ROHS;
 R11,R1,R3,R55,R2,R23;R0603;6;1.0k;C21190;1/10W Thick Film Resistors 75V ±1% ±100ppm/℃ -55℃~+155℃ 1kΩ 0603  Chip Resistor - Surface Mount ROHS;

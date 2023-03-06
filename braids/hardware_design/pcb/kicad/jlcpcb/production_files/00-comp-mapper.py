@@ -16,9 +16,9 @@ local_designators = collections.defaultdict(list)
 #   (r0603, 100k): c123
 jlc_components = collections.defaultdict(list)
 
-GOOD_FILE = "grids-good.csv"
-EMPTY_BOM_FILE = "BOM-grids.csv"
-NEW_BOM_FILE = "NEW-BOM-grids.csv"
+GOOD_FILE = "braids-good.csv"
+EMPTY_BOM_FILE = "BOM-braids.csv"
+NEW_BOM_FILE = "NEW-BOM-braids.csv"
 
 with open(GOOD_FILE) as f:
     reader = csv.DictReader(f, delimiter=";", quotechar='"')
