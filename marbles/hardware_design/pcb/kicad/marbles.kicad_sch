@@ -96,17 +96,17 @@
     (path "/51136ff8-279f-4caf-8981-ff8231713396/737239b0-0195-4c7f-8187-c0f9f8fc79f7"
       (reference "#+3V09") (unit 1) (value "+3V3") (footprint "marbles:")
     )
-    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/9fe38c4e-ef3f-4b74-812d-1bd191b4841a"
-      (reference "#+3V010") (unit 1) (value "+3V3") (footprint "marbles:")
-    )
     (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/d1b1d641-0c43-47f4-b70f-33f9a70a92c1"
       (reference "#+3V013") (unit 1) (value "+3V3") (footprint "marbles:")
     )
+    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/33514ba5-8490-41b6-85ad-c03fdd88c7f3"
+      (reference "#+3V?") (unit 1) (value "+3V3") (footprint "marbles:")
+    )
+    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/4a9cca23-a47d-49e8-a4a4-26ff904a5050"
+      (reference "#+3V?") (unit 1) (value "+3V3") (footprint "marbles:")
+    )
     (path "/04bafc9c-479e-4bd4-b799-cf4989325499/0859069c-e2fd-4e1e-8834-8b292ffa17ef"
       (reference "#FRAME2") (unit 1) (value "A3L-LOC") (footprint "marbles:")
-    )
-    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/39c76053-4d45-4bf4-8bf4-c5f8a1cfae48"
-      (reference "#FRAME3") (unit 1) (value "A3L-LOC") (footprint "marbles:")
     )
     (path "/51136ff8-279f-4caf-8981-ff8231713396/a0298273-f930-4500-95fd-c55b410a7fa2"
       (reference "#FRAME5") (unit 1) (value "A3L-LOC") (footprint "marbles:")
@@ -213,9 +213,6 @@
     (path "/04bafc9c-479e-4bd4-b799-cf4989325499/e29bc922-23a7-4a58-81f8-cf87bf62acbc"
       (reference "#GND036") (unit 1) (value "GND") (footprint "marbles:")
     )
-    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/ea1228df-b32f-4b36-a53c-9622811c13c3"
-      (reference "#GND037") (unit 1) (value "GND") (footprint "marbles:")
-    )
     (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/7cbf953a-20eb-4211-a885-2a27e05f2737"
       (reference "#GND038") (unit 1) (value "GND") (footprint "marbles:")
     )
@@ -225,14 +222,8 @@
     (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/dfdc6ecf-bd5f-4f39-bba3-15af2b64a029"
       (reference "#GND040") (unit 1) (value "GND") (footprint "marbles:")
     )
-    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/82681353-71e2-45d1-93b0-28b0cde20cd0"
-      (reference "#GND041") (unit 1) (value "GND") (footprint "marbles:")
-    )
     (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/b1d8ffbc-c233-4047-be8d-92cbc8205193"
       (reference "#GND042") (unit 1) (value "GND") (footprint "marbles:")
-    )
-    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/97fbdade-3e1a-4c25-a318-1614fd79bfb2"
-      (reference "#GND043") (unit 1) (value "GND") (footprint "marbles:")
     )
     (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/6ec83713-5f0b-4ef2-bb37-d885c1ca0973"
       (reference "#GND044") (unit 1) (value "GND") (footprint "marbles:")
@@ -416,6 +407,18 @@
     )
     (path "/355d6d2b-346c-465e-af41-72f951bca644/4d10cdd2-5405-46f2-b52c-e6f09b89d4e5"
       (reference "#GND0107") (unit 1) (value "GND") (footprint "marbles:")
+    )
+    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/10fe7a18-c1e3-4a4d-a6c2-284177465b77"
+      (reference "#GND?") (unit 1) (value "GND") (footprint "marbles:")
+    )
+    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/4081394a-7f39-43c5-8670-2644b30df634"
+      (reference "#GND?") (unit 1) (value "GND") (footprint "marbles:")
+    )
+    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/c2aa9c63-23db-4ffe-a920-9164e90c347c"
+      (reference "#GND?") (unit 1) (value "GND") (footprint "marbles:")
+    )
+    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/eff8f61d-bc54-48f6-acb5-231afce69d23"
+      (reference "#GND?") (unit 1) (value "GND") (footprint "marbles:")
     )
     (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/fd3ab9a1-4e83-4c98-90b1-1e746118bc99"
       (reference "#P+01") (unit 1) (value "VCC") (footprint "marbles:")
@@ -645,8 +648,8 @@
     (path "/04bafc9c-479e-4bd4-b799-cf4989325499/9364bb6f-f256-4f0b-8d7c-e2e3bf67f343"
       (reference "IC3") (unit 1) (value "LD2981ABU33") (footprint "marbles:SOT89")
     )
-    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/5b223b9a-3047-4042-9ea8-aa7c87a5172e"
-      (reference "IC4") (unit 1) (value "DAC8164ICPW") (footprint "marbles:SOP65P640X110-16N")
+    (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/ad86377b-dbd5-493d-b7e4-194fbe1c706d"
+      (reference "IC4") (unit 1) (value "DAC8565") (footprint "Package_SO:TSSOP-16_4.4x5mm_P0.65mm")
     )
     (path "/51136ff8-279f-4caf-8981-ff8231713396/a2f003fb-c563-4f19-af58-a369b6bcc722"
       (reference "IC5") (unit 1) (value "MCP6004") (footprint "marbles:TSSOP14_065")
