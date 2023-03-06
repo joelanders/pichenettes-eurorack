@@ -679,19 +679,19 @@
       (reference "IC6") (unit 5) (value "MCP6004") (footprint "marbles:TSSOP14_065")
     )
     (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/76cab2aa-e541-4086-9a41-b43445afb6b3"
-      (reference "IC7") (unit 1) (value "OPA4171") (footprint "marbles:TSSOP14_065")
+      (reference "IC7") (unit 1) (value "OPA4171") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
     (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/0c7cb7a0-95f9-4499-a0c9-d0d1797587db"
-      (reference "IC7") (unit 2) (value "OPA4171") (footprint "marbles:TSSOP14_065")
+      (reference "IC7") (unit 2) (value "OPA4171") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
     (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/710cd807-364e-43e6-aef6-c47e5f9048b5"
-      (reference "IC7") (unit 3) (value "OPA4171") (footprint "marbles:TSSOP14_065")
+      (reference "IC7") (unit 3) (value "OPA4171") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
     (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/7e7ba8e8-0b2f-48ba-955d-8137c8708cab"
-      (reference "IC7") (unit 4) (value "OPA4171") (footprint "marbles:TSSOP14_065")
+      (reference "IC7") (unit 4) (value "OPA4171") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
     (path "/52ef0486-4a7d-4bd1-86fe-58d0e8717aee/d738266d-1395-48da-a7da-33a078ad9d86"
-      (reference "IC7") (unit 5) (value "OPA4171") (footprint "marbles:TSSOP14_065")
+      (reference "IC7") (unit 5) (value "OPA4171") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
     (path "/04bafc9c-479e-4bd4-b799-cf4989325499/14c52440-c667-498e-acf3-708cfd8ae852"
       (reference "IC8") (unit 1) (value "LM4040B10") (footprint "marbles:DBZ_R-PDSO-G3")
