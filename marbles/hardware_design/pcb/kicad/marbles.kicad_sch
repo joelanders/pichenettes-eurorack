@@ -886,7 +886,7 @@
       (reference "Q3") (unit 1) (value "MMBT3904") (footprint "marbles:SOT23-BEC")
     )
     (path "/355d6d2b-346c-465e-af41-72f951bca644/005b9dca-9ff5-44e2-bbd6-1dc9b5c0f2be"
-      (reference "R1") (unit 1) (value "39") (footprint "marbles:R0402")
+      (reference "R1") (unit 1) (value "1k") (footprint "marbles:R0603")
     )
     (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/53d691a1-d50d-434a-8b09-6af0d88668b0"
       (reference "R2") (unit 1) (value "100") (footprint "marbles:R0402")
@@ -898,7 +898,7 @@
       (reference "R4") (unit 1) (value "10kB") (footprint "marbles:ALPS_POT_VERTICAL_PS")
     )
     (path "/355d6d2b-346c-465e-af41-72f951bca644/c0d1947d-d9e0-4ad8-99c3-cea9e8348de6"
-      (reference "R5") (unit 1) (value "39") (footprint "marbles:R0402")
+      (reference "R5") (unit 1) (value "1k") (footprint "marbles:R0603")
     )
     (path "/2be4a717-7d84-4a28-b085-cb5483528b8b/f4a68fe8-18e5-462b-bdef-bde751217d02"
       (reference "R6") (unit 1) (value "10k") (footprint "marbles:R0402")
