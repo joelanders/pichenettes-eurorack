@@ -32,6 +32,8 @@ FAMILY         = f4xx
 APPLICATION_LARGE = TRUE
 BOOTLOADER        = rings_bootloader
 
+PGM_SERIAL_PORT ?= /dev/tty.usbserial-1130
+
 # Preferred upload command
 UPLOAD_COMMAND  = upload_combo_jtag_erase_first
 
