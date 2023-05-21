@@ -10,6 +10,7 @@
     (effects (font (size 1.1176 1.1176) (thickness 0.1524)) (justify left bottom))
     (tstamp b088cbe7-c9c2-463d-b217-8c361cd5ee7a)
   )
+  (fp_circle (center -2.6 1.8) (end -2.4 2.1) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 3b8b810a-764a-4c14-b255-0c7deb1d1110))
   (fp_line (start -2.4 1.9) (end -2.4 1.4) (layer "F.Fab") (width 0.2032) (tstamp 037002c5-5abe-48b8-8464-da128f42c4ac))
   (fp_line (start 2.4 1.4) (end 2.4 1.9) (layer "F.Fab") (width 0.2032) (tstamp 3b0bdd25-da58-4387-a1e7-0550aae7a2d1))
   (fp_line (start 2.4 1.4) (end -2.4 1.4) (layer "F.Fab") (width 0.2032) (tstamp 5d7083f4-5353-4199-99d7-0a49a5400446))
