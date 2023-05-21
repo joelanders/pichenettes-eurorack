@@ -776,11 +776,11 @@
     (path "/5235af04-bf2d-4546-bdf7-d12e7e46bfc3/2c892ec2-c79f-4200-9f92-032571f6736d"
       (reference "R41") (unit 1) (value "2.2k") (footprint "clouds:R0603")
     )
-    (path "/7d888cd3-5c63-4ee4-96aa-d88e0922a8a2/795c2b92-f8c1-46bf-bcc5-0e459985bd88"
-      (reference "R42") (unit 1) (value "PTV112-4420A-A503") (footprint "clouds:BOURNS_PTV112")
+    (path "/7d888cd3-5c63-4ee4-96aa-d88e0922a8a2/c8037ef4-eb67-46c0-9146-2d8aae557ddb"
+      (reference "R42") (unit 1) (value "R_Potentiometer_Dual_Separate") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles")
     )
-    (path "/7d888cd3-5c63-4ee4-96aa-d88e0922a8a2/252c9577-d643-4c1e-b472-3978b37249e7"
-      (reference "R42") (unit 2) (value "PTV112-4420A-A503") (footprint "clouds:BOURNS_PTV112")
+    (path "/7d888cd3-5c63-4ee4-96aa-d88e0922a8a2/01bf50b7-7f5d-40ea-817d-d939c583e5f8"
+      (reference "R42") (unit 2) (value "R_Potentiometer_Dual_Separate") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles")
     )
     (path "/7d888cd3-5c63-4ee4-96aa-d88e0922a8a2/0db88a03-d43c-45f9-a570-e99099675de6"
       (reference "R43") (unit 1) (value "10kB") (footprint "clouds:ALPS_POT_VERTICAL_PS")
