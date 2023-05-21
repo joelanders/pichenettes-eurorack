@@ -524,18 +524,6 @@
     (path "/cf634afd-a2ae-4105-8555-c4f803639dda/1c0733f2-dbe7-4b78-ae57-979cbf870b3b"
       (reference "D2") (unit 1) (value "1N5819HW") (footprint "clouds:SOD123")
     )
-    (path "/5235af04-bf2d-4546-bdf7-d12e7e46bfc3/e9d404ed-0e4e-4476-a53c-821102ab1df9"
-      (reference "F1") (unit 1) (value "FIDUCIAL1X2") (footprint "clouds:FIDUCIAL-1X2")
-    )
-    (path "/5235af04-bf2d-4546-bdf7-d12e7e46bfc3/7b850f17-ff64-4fc3-ac3b-397c4ab7832e"
-      (reference "F2") (unit 1) (value "FIDUCIAL1X2") (footprint "clouds:FIDUCIAL-1X2")
-    )
-    (path "/5235af04-bf2d-4546-bdf7-d12e7e46bfc3/4e00c55f-d073-43b5-9b7b-9baa2e3bc168"
-      (reference "F3") (unit 1) (value "FIDUCIAL1X2") (footprint "clouds:FIDUCIAL-1X2")
-    )
-    (path "/5235af04-bf2d-4546-bdf7-d12e7e46bfc3/9f8fed2a-15de-4095-be2a-f8c2e0c76daf"
-      (reference "F4") (unit 1) (value "FIDUCIAL1X2") (footprint "clouds:FIDUCIAL-1X2")
-    )
     (path "/002fe3fa-72fd-48b6-bac9-4e915afbf302/8180a4cd-d16b-400c-a251-fafded058bce"
       (reference "IC1") (unit 1) (value "74595D") (footprint "clouds:SO16")
     )
@@ -668,11 +656,8 @@
     (path "/5235af04-bf2d-4546-bdf7-d12e7e46bfc3/5772711d-a722-40b5-90e6-9c955a2f793e"
       (reference "Q4") (unit 1) (value "12.288MHz") (footprint "clouds:HC49UP")
     )
-    (path "/002fe3fa-72fd-48b6-bac9-4e915afbf302/545946e2-7eae-4cb2-9987-a085194b0dd1"
-      (reference "R1") (unit 1) (value "68") (footprint "clouds:R0603")
-    )
     (path "/002fe3fa-72fd-48b6-bac9-4e915afbf302/54f010aa-d134-42a3-9607-be7085a3b8e9"
-      (reference "R2") (unit 1) (value "68") (footprint "clouds:R0603")
+      (reference "R2") (unit 1) (value "1k") (footprint "clouds:R0603")
     )
     (path "/002fe3fa-72fd-48b6-bac9-4e915afbf302/9256ae4c-9e40-43f7-b9f0-db5930c1979b"
       (reference "R3") (unit 1) (value "68") (footprint "clouds:R0603")
@@ -854,11 +839,8 @@
     (path "/7d888cd3-5c63-4ee4-96aa-d88e0922a8a2/14e2db10-75ab-452d-8eed-0114f1a42072"
       (reference "R62") (unit 1) (value "1.0k") (footprint "clouds:R0603")
     )
-    (path "/002fe3fa-72fd-48b6-bac9-4e915afbf302/26d764d8-46e3-453e-b805-9d128138b0fd"
-      (reference "SW1") (unit 1) (value "LP4OA1PBCT") (footprint "clouds:LP4OA1PBCT")
-    )
-    (path "/002fe3fa-72fd-48b6-bac9-4e915afbf302/7510afdb-ebca-4b75-91ae-2c8148f835f5"
-      (reference "SW1") (unit 2) (value "LP4OA1PBCT") (footprint "clouds:LP4OA1PBCT")
+    (path "/002fe3fa-72fd-48b6-bac9-4e915afbf302/7ea9f5b5-0f89-480d-be27-57f30e3f998d"
+      (reference "SW1") (unit 1) (value "SW_Push_LED") (footprint "Supercell 1.3:C&K_D6R")
     )
     (path "/002fe3fa-72fd-48b6-bac9-4e915afbf302/43eea189-b146-40ec-bb3b-5b967c6c3a1f"
       (reference "SW2") (unit 1) (value "TAC_SWITCHPTH") (footprint "clouds:TACTILE-PTH")
