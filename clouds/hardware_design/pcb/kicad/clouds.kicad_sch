@@ -338,6 +338,9 @@
     (path "/5235af04-bf2d-4546-bdf7-d12e7e46bfc3/480e3e81-421b-4ce8-899c-81f0e73ca413"
       (reference "#GND074") (unit 1) (value "GND") (footprint "clouds:")
     )
+    (path "/5235af04-bf2d-4546-bdf7-d12e7e46bfc3/60a73d8d-0a42-4f51-8fa2-90779ac94a68"
+      (reference "#GND0101") (unit 1) (value "GND") (footprint "clouds:")
+    )
     (path "/7d888cd3-5c63-4ee4-96aa-d88e0922a8a2/f8ab80a1-5092-42d0-b6a9-eb1b67007130"
       (reference "#P+01") (unit 1) (value "VCC") (footprint "clouds:")
     )
@@ -447,7 +450,7 @@
       (reference "C27") (unit 1) (value "47u") (footprint "clouds:PANASONIC_D")
     )
     (path "/5235af04-bf2d-4546-bdf7-d12e7e46bfc3/cbfecf77-a1f2-46be-a15c-4a156bd89d46"
-      (reference "C28") (unit 1) (value "10u") (footprint "clouds:PANASONIC_A")
+      (reference "C28") (unit 1) (value "10u") (footprint "clouds:PANASONIC_B")
     )
     (path "/5235af04-bf2d-4546-bdf7-d12e7e46bfc3/db681135-b26a-4eaf-833e-1b2ff1ab67d2"
       (reference "C29") (unit 1) (value "100n") (footprint "clouds:C0603")
@@ -510,7 +513,7 @@
       (reference "C48") (unit 1) (value "18p") (footprint "clouds:C0603")
     )
     (path "/5235af04-bf2d-4546-bdf7-d12e7e46bfc3/d8806058-8427-4f23-9616-47a2fab02e08"
-      (reference "C49") (unit 1) (value "10u") (footprint "clouds:PANASONIC_A")
+      (reference "C49") (unit 1) (value "10u") (footprint "clouds:PANASONIC_B")
     )
     (path "/5235af04-bf2d-4546-bdf7-d12e7e46bfc3/10b2e487-b8ef-4606-93e0-f543fec65352"
       (reference "C50") (unit 1) (value "1u") (footprint "clouds:C0603")
