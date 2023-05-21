@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "clouds-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/clouds-eagle-import.kicad_sym")(options "")(descr ""))
+)
