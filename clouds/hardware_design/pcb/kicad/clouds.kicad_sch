@@ -867,10 +867,10 @@
       (reference "SW3") (unit 1) (value "TAC_SWITCHPTH") (footprint "clouds:TACTILE-PTH")
     )
     (path "/5235af04-bf2d-4546-bdf7-d12e7e46bfc3/80b52ae3-3bd1-4ccd-ac0f-9eb6739df8a1"
-      (reference "SW4") (unit 1) (value "EVQQ2") (footprint "clouds:EVQ-Q2")
+      (reference "SW4") (unit 1) (value "EVQQ2") (footprint "Supercell 1.3:k2-1808 pushbutton switch")
     )
     (path "/5235af04-bf2d-4546-bdf7-d12e7e46bfc3/903d4dcf-d052-445d-a37e-370b68356df6"
-      (reference "SW5") (unit 1) (value "EVQQ2") (footprint "clouds:EVQ-Q2")
+      (reference "SW5") (unit 1) (value "EVQQ2") (footprint "Supercell 1.3:k2-1808 pushbutton switch")
     )
   )
 )
