@@ -686,10 +686,10 @@
       (reference "R43") (unit 1) (value "1.0k") (footprint "warps:R0603")
     )
     (path "/1fbf0ed2-9551-404e-bef6-8be913d11bf1/cca116ef-b5e1-4bc7-bec9-aaead0756caf"
-      (reference "SW1") (unit 1) (value "EVQQ2") (footprint "warps:EVQ-Q2")
+      (reference "SW1") (unit 1) (value "EVQQ2") (footprint "Supercell 1.3:k2-1808 pushbutton switch")
     )
     (path "/1fbf0ed2-9551-404e-bef6-8be913d11bf1/44b3cf38-7c0e-46ed-86ac-d5b21d24a483"
-      (reference "SW2") (unit 1) (value "EVQQ2") (footprint "warps:EVQ-Q2")
+      (reference "SW2") (unit 1) (value "EVQQ2") (footprint "Supercell 1.3:k2-1808 pushbutton switch")
     )
     (path "/1fbf0ed2-9551-404e-bef6-8be913d11bf1/daa93cf0-9a81-448b-b780-679c65c8625c"
       (reference "SW3") (unit 1) (value "TAC_SWITCHPTH") (footprint "warps:TACTILE-PTH")
