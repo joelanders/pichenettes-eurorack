@@ -274,17 +274,17 @@
     (path "/1fbf0ed2-9551-404e-bef6-8be913d11bf1/51b59e7d-fc45-4eb6-b109-adf006dc48b6"
       (reference "#GND0101") (unit 1) (value "GND") (footprint "warps:")
     )
-    (path "/1fbf0ed2-9551-404e-bef6-8be913d11bf1/16e94a8b-86e9-4da2-845a-a9c5453bbe90"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "warps:")
+    (path "/1fbf0ed2-9551-404e-bef6-8be913d11bf1/a31fe8d1-f860-4612-afeb-d03cea7fd3ec"
+      (reference "#GND0102") (unit 1) (value "GND") (footprint "warps:")
     )
     (path "/1fbf0ed2-9551-404e-bef6-8be913d11bf1/8286ad8c-7d2d-4784-af82-e22ac6921926"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "warps:")
+      (reference "#GND0103") (unit 1) (value "GND") (footprint "warps:")
     )
-    (path "/1fbf0ed2-9551-404e-bef6-8be913d11bf1/a31fe8d1-f860-4612-afeb-d03cea7fd3ec"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "warps:")
+    (path "/1fbf0ed2-9551-404e-bef6-8be913d11bf1/16e94a8b-86e9-4da2-845a-a9c5453bbe90"
+      (reference "#GND0104") (unit 1) (value "GND") (footprint "warps:")
     )
     (path "/1fbf0ed2-9551-404e-bef6-8be913d11bf1/a335e070-c928-42aa-b184-ca4fd1ddb770"
-      (reference "#GND?") (unit 1) (value "GND") (footprint "warps:")
+      (reference "#GND0105") (unit 1) (value "GND") (footprint "warps:")
     )
     (path "/5a9195e1-77e8-4484-b86c-4c1ce30b7daf/9dedaafc-4ec3-4a20-8142-cf03effa2972"
       (reference "#P+01") (unit 1) (value "VCC") (footprint "warps:")
