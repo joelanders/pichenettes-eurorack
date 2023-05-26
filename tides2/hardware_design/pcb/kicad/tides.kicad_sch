@@ -79,67 +79,67 @@
 
   (symbol_instances
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/1ecf6854-98fd-42a1-a561-50878851316c"
-      (reference "#+3V1") (unit 1) (value "+3V3_A") (footprint "tides:")
+      (reference "#+3V01") (unit 1) (value "+3V3_A") (footprint "tides:")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/20d62407-4632-4c86-a08c-42a49af6c231"
-      (reference "#+3V2") (unit 1) (value "+3V3") (footprint "tides:")
+      (reference "#+3V02") (unit 1) (value "+3V3") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/0a5d617e-26c8-4e87-a151-cd6686ddc6c2"
-      (reference "#+3V3") (unit 1) (value "+3V3_A") (footprint "tides:")
+      (reference "#+3V03") (unit 1) (value "+3V3_A") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/211910a6-6412-4259-8760-1c8c2b93d99f"
-      (reference "#+3V4") (unit 1) (value "+3V3") (footprint "tides:")
+      (reference "#+3V04") (unit 1) (value "+3V3") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/b2ac125f-db55-40e6-8341-4b84c4f5a387"
-      (reference "#+3V5") (unit 1) (value "+3V3") (footprint "tides:")
+      (reference "#+3V05") (unit 1) (value "+3V3") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/3a364e10-1948-4bee-b978-d13147f1ebd4"
-      (reference "#+3V6") (unit 1) (value "+3V3_A") (footprint "tides:")
+      (reference "#+3V06") (unit 1) (value "+3V3_A") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/8688f035-2cfd-49bc-88dd-8e055d1b9a79"
-      (reference "#+3V7") (unit 1) (value "+3V3_A") (footprint "tides:")
+      (reference "#+3V07") (unit 1) (value "+3V3_A") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/afd18297-e4a0-4d27-9bc0-b8a11f2bbf99"
-      (reference "#+3V8") (unit 1) (value "+3V3_A") (footprint "tides:")
+      (reference "#+3V08") (unit 1) (value "+3V3_A") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/cc1a96f5-39b9-4d2e-801b-904f8de32563"
-      (reference "#+3V9") (unit 1) (value "+3V3_A") (footprint "tides:")
+      (reference "#+3V09") (unit 1) (value "+3V3_A") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/5154953c-cf96-4c89-8bf4-1615b9bdd629"
-      (reference "#+3V10") (unit 1) (value "+3V3_A") (footprint "tides:")
+      (reference "#+3V010") (unit 1) (value "+3V3_A") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/50c11b2b-4b81-4354-a4b7-d8c72f4a7556"
-      (reference "#+3V11") (unit 1) (value "+3V3_A") (footprint "tides:")
+      (reference "#+3V011") (unit 1) (value "+3V3_A") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/7dc25636-e282-484a-a0f4-5dfb292606d5"
-      (reference "#+3V12") (unit 1) (value "+3V3_A") (footprint "tides:")
+      (reference "#+3V012") (unit 1) (value "+3V3_A") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/903b6995-0ada-4395-9990-8472213c0a1c"
-      (reference "#+3V13") (unit 1) (value "+3V3") (footprint "tides:")
+      (reference "#+3V013") (unit 1) (value "+3V3") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/238c7ebf-73fc-4b7e-9153-83dfc15b18d9"
-      (reference "#+3V14") (unit 1) (value "+3V3_A") (footprint "tides:")
+      (reference "#+3V014") (unit 1) (value "+3V3_A") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/7e0cea4b-092a-4e97-b878-eac804c96baf"
-      (reference "#+3V15") (unit 1) (value "+3V3_A") (footprint "tides:")
+      (reference "#+3V015") (unit 1) (value "+3V3_A") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/4f49afde-f4d1-402d-972e-b0dc9b7ec7d2"
-      (reference "#+3V16") (unit 1) (value "+3V3_A") (footprint "tides:")
+      (reference "#+3V016") (unit 1) (value "+3V3_A") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/045ceefd-1938-4583-8a12-cd714eae9bdc"
-      (reference "#+3V17") (unit 1) (value "+3V3_A") (footprint "tides:")
+      (reference "#+3V017") (unit 1) (value "+3V3_A") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/dc1c56f9-8372-48e7-83dc-fee33b8db726"
-      (reference "#+3V18") (unit 1) (value "+3V3_A") (footprint "tides:")
+      (reference "#+3V018") (unit 1) (value "+3V3_A") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/a755b44a-4131-4f42-a48f-a8515043f0a6"
-      (reference "#+3V19") (unit 1) (value "+3V3_A") (footprint "tides:")
+      (reference "#+3V019") (unit 1) (value "+3V3_A") (footprint "tides:")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/250670c5-0f6b-40e1-a202-2bfad6e0b16c"
-      (reference "#+3V20") (unit 1) (value "+3V3_A") (footprint "tides:")
+      (reference "#+3V020") (unit 1) (value "+3V3_A") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/ecde00c9-8e8b-424f-949d-56d336e895cb"
-      (reference "#+3V21") (unit 1) (value "+3V3_A") (footprint "tides:")
+      (reference "#+3V021") (unit 1) (value "+3V3_A") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/ef2252aa-17dd-433e-a00d-1b2bbc38942b"
       (reference "#FRAME1") (unit 1) (value "A3L-LOC") (footprint "tides:")
@@ -157,307 +157,307 @@
       (reference "#FRAME6") (unit 1) (value "A3L-LOC") (footprint "tides:")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/6c31074f-5e57-4164-aad3-0075858e3d3e"
-      (reference "#GND1") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND01") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/acbbe8d4-85b8-4c03-be59-a2cca43d0a95"
-      (reference "#GND2") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND02") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/546977c7-6765-4539-87f8-1a432f01df20"
-      (reference "#GND3") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND03") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/d45f0bd5-be45-4e47-9347-59fa2928d3e5"
-      (reference "#GND4") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND04") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/b840e090-25be-494d-8b44-8b17f8c2eac0"
-      (reference "#GND5") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND05") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/6d012505-10f6-4833-adee-8eff33023500"
-      (reference "#GND6") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND06") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/fb07a3ca-3538-423c-9351-a74a9b2bd694"
-      (reference "#GND7") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND07") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/3e6a222c-4ef0-4bc8-ab66-aa2e8ec8136f"
-      (reference "#GND8") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND08") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/70772ce6-b91f-49e6-ac82-7206dfa5104c"
-      (reference "#GND9") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND09") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/e3235600-6293-4331-a44c-c8e753f45386"
-      (reference "#GND10") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND010") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/0108aaa5-dcad-4002-8bbc-58c3d0f85390"
-      (reference "#GND11") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND011") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/b43b33f1-e1e7-4d8b-8b47-79c3556d6515"
-      (reference "#GND12") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND012") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/bb8dd6bc-0efe-47b5-b9e4-3cb1ccfaf691"
-      (reference "#GND13") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND013") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/e8b664b5-817d-4c75-ae38-121bb362843a"
-      (reference "#GND14") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND014") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/32cc7905-a22a-4d61-a4e0-429f07c39b00"
-      (reference "#GND15") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND015") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/75479d17-2fae-47c1-8c95-c36365e3b4c4"
-      (reference "#GND16") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND016") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/17bdbd13-1e2f-4854-b919-7c5cb16244d5"
-      (reference "#GND17") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND017") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/22caf3dd-47b4-4848-b15f-745d03038607"
-      (reference "#GND18") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND018") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/278fa037-920d-4ee0-9921-9d5cf89e679e"
-      (reference "#GND19") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND019") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/73eaa22a-16ce-481e-8d03-ef560eafc74f"
-      (reference "#GND20") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND020") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/69f142a6-3577-4320-91e6-2b9fdaa4e086"
-      (reference "#GND21") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND021") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/c5cdbb65-c528-4f62-831c-3e5c11619f68"
-      (reference "#GND22") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND022") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/eb41fc4e-4db5-4938-844a-ea39b2ea9878"
-      (reference "#GND23") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND023") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/6578065f-4ed9-4362-850a-7e568eb8e286"
-      (reference "#GND24") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND024") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/6d9aa9fc-d48d-4f0c-bbf1-63e530957967"
-      (reference "#GND25") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND025") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/ca38d972-3a8e-4f5b-9c25-18e7f516e4c2"
-      (reference "#GND26") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND026") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/e2b07d44-551f-4ded-9dab-da5ae1564bbf"
-      (reference "#GND27") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND027") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/e9abc7a5-bfa7-4105-a5ee-b16a30d582a9"
-      (reference "#GND28") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND028") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/a05b60bc-9091-44aa-8ac0-9553b6bb9604"
-      (reference "#GND29") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND029") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/fd2d6dc5-676b-4024-af54-78bad1495276"
-      (reference "#GND30") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND030") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/bb2941e5-8cf5-44a4-82ba-393371f00389"
-      (reference "#GND31") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND031") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/e2b644ae-3f4f-47da-a973-32152e0209f7"
-      (reference "#GND32") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND032") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/c9608e7e-81ea-4efd-b87b-e0f5689ec1ff"
-      (reference "#GND33") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND033") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/5b75fa9c-cb5f-4a29-b3bb-b18c2ed2b700"
-      (reference "#GND34") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND034") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/4c422f43-1871-443f-8dfa-7b2b2599f0b9"
-      (reference "#GND35") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND035") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/dacf0843-ec24-4946-a685-bb57b50df63b"
-      (reference "#GND36") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND036") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/0a7bef59-01ae-4baa-8a69-eb0376d2ecdb"
-      (reference "#GND37") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND037") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/8e7471f6-21df-4f48-b0e1-f79f8e7ac584"
-      (reference "#GND38") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND038") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/6dbdffc3-1d16-4f69-80ee-585c99c3ade8"
-      (reference "#GND39") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND039") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/bfa77d06-1256-4e0b-8f3a-c33431501cea"
-      (reference "#GND40") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND040") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/0acab466-eb83-4cdd-bbca-66f302c8ae67"
-      (reference "#GND41") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND041") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/73cbcd43-0b18-4817-b751-7afc2b84f4c9"
-      (reference "#GND42") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND042") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/5bb608b6-ba8d-400f-a58d-e47dd2007a08"
-      (reference "#GND43") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND043") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/e62b63fd-7183-4968-be67-87e849e990fc"
-      (reference "#GND44") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND044") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/9a85575c-a475-4978-abad-366d569d51ba"
-      (reference "#GND45") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND045") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/eb628f36-e379-4898-b582-88f06b14f9ac"
-      (reference "#GND46") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND046") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/05243f71-296d-4578-80f6-7b31d452c5b6"
-      (reference "#GND47") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND047") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/39ce3f9b-1e60-4dfe-8c95-09520f71bbaa"
-      (reference "#GND48") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND048") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/7d85e309-92d2-4d66-b3a6-f412fcce8e73"
-      (reference "#GND49") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND049") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/c449607c-8681-4e87-8e4b-4f5d7b698415"
-      (reference "#GND50") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND050") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/fd0f02c1-690a-40ba-98c0-840a6c1a9c31"
-      (reference "#GND51") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND051") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/5669a7f2-1200-4af7-a63a-54ad17b8e704"
-      (reference "#GND52") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND052") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/6b040520-e0ba-4b15-8aef-ceaa1d62b87b"
-      (reference "#GND53") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND053") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/adc6d2fc-7b2b-40db-b880-c1fa525860a0"
-      (reference "#GND54") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND054") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/b92218dc-2a1e-4b5e-82d9-586f7d8d4776"
-      (reference "#GND55") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND055") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/2a20762c-16cd-434e-abb9-c3df49cd1a3f"
-      (reference "#GND56") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND056") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/396285ae-8765-44e8-b823-919a30d550d0"
-      (reference "#GND57") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND057") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/43cf2cf7-eaad-4d62-9d7c-e4575fc8f33c"
-      (reference "#GND58") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND058") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/43fbb296-fad7-4c43-ae21-8f0348147bbd"
-      (reference "#GND59") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND059") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/dbfde95b-e5de-4110-96b2-704698805ca2"
-      (reference "#GND60") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND060") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/ab03d9ed-0e1d-4bc9-893f-d0952c552aba"
-      (reference "#GND61") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND061") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/7ca35408-80d9-43b5-84ca-9c2ae48d42e0"
-      (reference "#GND62") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND062") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/00a8e3e8-a53b-4c44-a69a-35fc773a2806"
-      (reference "#GND63") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND063") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/bfd9b0df-eafd-49f4-b9d2-8b06de23d437"
-      (reference "#GND64") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND064") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/4c569214-9cb8-4682-bbec-d9876ed1ba55"
-      (reference "#GND65") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND065") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/312b8eea-cbcf-41d8-95e3-8f3084f1ef21"
-      (reference "#GND66") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND066") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/728e3b13-92f7-4e7a-91d7-118538dc9729"
-      (reference "#GND67") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND067") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/5fe200cf-1939-4ff6-b824-86b7d4ef1f58"
-      (reference "#GND68") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND068") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/5f56783f-53b4-4c42-a850-26db966e5e3f"
-      (reference "#GND69") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND069") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/0a7a334d-48b5-4af1-84f4-f1d6a8ba4041"
-      (reference "#GND70") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND070") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/c42ff697-51a2-4561-a314-6de27894544c"
-      (reference "#GND71") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND071") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/4bc43380-5916-4896-b00a-294154227d04"
-      (reference "#GND72") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND072") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/5baa100f-baf9-49ea-960e-42b49064b08c"
-      (reference "#GND73") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND073") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/3fbc55df-65a4-467a-94e6-463bb9b2da28"
-      (reference "#GND74") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND074") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/997e245a-d591-41be-9d69-d4a3a07bc5bc"
-      (reference "#GND75") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND075") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/31193660-ce3d-4b4b-8d8c-68771a9f6db3"
-      (reference "#GND76") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND076") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/8e891cf7-149b-46b3-8db0-cc148ed44c3f"
-      (reference "#GND77") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND077") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/633bc731-81c2-4ea5-ad86-97fd46159b2a"
-      (reference "#GND78") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND078") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/2a0068a1-811f-486a-978f-cdd054bdde45"
-      (reference "#GND79") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND079") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/2ab01c12-18bc-4540-a08e-f5f072a4b8c0"
-      (reference "#GND80") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND080") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/d0ba6037-9ba5-4834-b910-8a32be5ad1e1"
-      (reference "#GND81") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND081") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/9d44d9b0-166b-4aa0-a583-65c7587ba770"
-      (reference "#GND82") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND082") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/57faf13b-8e5f-466c-a507-1eca274d0cd2"
-      (reference "#GND83") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND083") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/3d9f5f91-c06b-49f8-9935-89d737c3b3cf"
-      (reference "#GND84") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND084") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/593b886b-203e-4e9d-bb76-4734a6e8774f"
-      (reference "#GND85") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND085") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/9be93395-9139-4595-9c37-5cfd19548608"
-      (reference "#GND86") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND086") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/0d30163d-56af-4534-8696-544fb7f241c4"
-      (reference "#GND87") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND087") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/16798cdc-db49-4216-96be-0f672118f272"
-      (reference "#GND88") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND088") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/7b6f8218-e620-433e-abdc-b7b4f1064b92"
-      (reference "#GND89") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND089") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/ed8b6fc9-5ed2-4b56-a470-0278a67f7d1c"
-      (reference "#GND90") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND090") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/3158f515-de0d-48c9-b5c0-a3b9b0b6e791"
-      (reference "#GND91") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND091") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/e77939d0-7aa8-4df1-bf6f-45873feffc08"
-      (reference "#GND92") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND092") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/dc1d48a6-efd6-43c7-8102-b3e6eca76f99"
-      (reference "#GND93") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND093") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/aa91b4c0-8048-4828-bdb6-9f43fb97a00d"
-      (reference "#GND96") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND096") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/a4a986ac-f350-472a-9fdb-98d857119bbf"
-      (reference "#GND98") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND098") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/2537dd48-f16a-4703-a7bd-bb9244fa644b"
-      (reference "#GND99") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND099") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/8d43e5d1-e884-4e6a-bc01-81d5726a8da2"
-      (reference "#GND100") (unit 1) (value "GND") (footprint "tides:")
+      (reference "#GND0100") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/a4f013fb-3226-4c79-a4f5-b38b36503c74"
-      (reference "#P+1") (unit 1) (value "VCC") (footprint "tides:")
+      (reference "#P+01") (unit 1) (value "VCC") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/ee5f778a-4762-4456-bd47-93f51aaf473a"
-      (reference "#P+5") (unit 1) (value "VCC") (footprint "tides:")
+      (reference "#P+05") (unit 1) (value "VCC") (footprint "tides:")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/7d7c5903-e784-489d-9d75-1b70d2dd20d7"
-      (reference "#SUPPLY1") (unit 1) (value "VEE") (footprint "tides:")
+      (reference "#SUPPLY01") (unit 1) (value "VEE") (footprint "tides:")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/be81d045-bd91-4f2d-98ee-0260f8e09b8a"
-      (reference "#SUPPLY4") (unit 1) (value "VEE") (footprint "tides:")
+      (reference "#SUPPLY04") (unit 1) (value "VEE") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/ad9caba3-e8d8-4e5b-ac59-a18e5b28c670"
       (reference "C1") (unit 1) (value "1u") (footprint "tides:C0402")
@@ -709,34 +709,34 @@
       (reference "IC7") (unit 5) (value "MCP6004") (footprint "tides:TSSOP14_065")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/f5ffb15c-a15b-4c9e-abe0-fe166a4408a5"
-      (reference "IC8") (unit 1) (value "TLV4172") (footprint "tides:TSSOP14_065")
+      (reference "IC8") (unit 1) (value "TLV4172") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/4d45641f-9d0c-4f04-afb5-a56464af8009"
-      (reference "IC8") (unit 2) (value "TLV4172") (footprint "tides:TSSOP14_065")
+      (reference "IC8") (unit 2) (value "TLV4172") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/4e7cd94b-3f3c-425d-b907-830aaf907253"
-      (reference "IC8") (unit 3) (value "TLV4172") (footprint "tides:TSSOP14_065")
+      (reference "IC8") (unit 3) (value "TLV4172") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/f725d541-72a9-477e-b272-476d42290a22"
-      (reference "IC8") (unit 4) (value "TLV4172") (footprint "tides:TSSOP14_065")
+      (reference "IC8") (unit 4) (value "TLV4172") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/0ce13068-8a3c-40d1-886c-2c07a726e460"
-      (reference "IC8") (unit 5) (value "TLV4172") (footprint "tides:TSSOP14_065")
+      (reference "IC8") (unit 5) (value "TLV4172") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/2722d890-778b-4af9-887d-1cdd3473e764"
-      (reference "IC9") (unit 1) (value "TLV4172") (footprint "tides:TSSOP14_065")
+      (reference "IC9") (unit 1) (value "TLV4172") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/cd5d6c09-3f04-4436-a83e-424093dfe499"
-      (reference "IC9") (unit 2) (value "TLV4172") (footprint "tides:TSSOP14_065")
+      (reference "IC9") (unit 2) (value "TLV4172") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/cd3af9b9-c7af-4798-93ea-2d312acd75e8"
-      (reference "IC9") (unit 3) (value "TLV4172") (footprint "tides:TSSOP14_065")
+      (reference "IC9") (unit 3) (value "TLV4172") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/4c8fedd0-de0f-4e17-9932-e92cdddf7860"
-      (reference "IC9") (unit 4) (value "TLV4172") (footprint "tides:TSSOP14_065")
+      (reference "IC9") (unit 4) (value "TLV4172") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/ecb7d839-f527-410d-9031-a063f38d760d"
-      (reference "IC9") (unit 5) (value "TLV4172") (footprint "tides:TSSOP14_065")
+      (reference "IC9") (unit 5) (value "TLV4172") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/66fcca6f-2007-4e6a-99f4-7e2bd1156200"
       (reference "IC10") (unit 1) (value "LM4040B10") (footprint "tides:DBZ_R-PDSO-G3")
