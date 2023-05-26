@@ -141,6 +141,9 @@
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/ecde00c9-8e8b-424f-949d-56d336e895cb"
       (reference "#+3V021") (unit 1) (value "+3V3_A") (footprint "tides:")
     )
+    (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/4d7d9c4c-737f-4ce1-887b-8260fd5de63a"
+      (reference "#+3V0101") (unit 1) (value "+3V3") (footprint "marbles:")
+    )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/ef2252aa-17dd-433e-a00d-1b2bbc38942b"
       (reference "#FRAME1") (unit 1) (value "A3L-LOC") (footprint "tides:")
     )
@@ -288,20 +291,8 @@
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/e62b63fd-7183-4968-be67-87e849e990fc"
       (reference "#GND044") (unit 1) (value "GND") (footprint "tides:")
     )
-    (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/9a85575c-a475-4978-abad-366d569d51ba"
-      (reference "#GND045") (unit 1) (value "GND") (footprint "tides:")
-    )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/eb628f36-e379-4898-b582-88f06b14f9ac"
       (reference "#GND046") (unit 1) (value "GND") (footprint "tides:")
-    )
-    (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/05243f71-296d-4578-80f6-7b31d452c5b6"
-      (reference "#GND047") (unit 1) (value "GND") (footprint "tides:")
-    )
-    (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/39ce3f9b-1e60-4dfe-8c95-09520f71bbaa"
-      (reference "#GND048") (unit 1) (value "GND") (footprint "tides:")
-    )
-    (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/7d85e309-92d2-4d66-b3a6-f412fcce8e73"
-      (reference "#GND049") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/c449607c-8681-4e87-8e4b-4f5d7b698415"
       (reference "#GND050") (unit 1) (value "GND") (footprint "tides:")
@@ -446,6 +437,21 @@
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/8d43e5d1-e884-4e6a-bc01-81d5726a8da2"
       (reference "#GND0100") (unit 1) (value "GND") (footprint "tides:")
+    )
+    (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/0a2aa418-3776-4510-b91d-d21ecfc53e77"
+      (reference "#GND0101") (unit 1) (value "GND") (footprint "marbles:")
+    )
+    (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/c8b1e4c5-4fca-4350-9cb9-256764eb5506"
+      (reference "#GND0102") (unit 1) (value "GND") (footprint "marbles:")
+    )
+    (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/45a8838f-9138-405b-b18d-dd77b12c6f71"
+      (reference "#GND0103") (unit 1) (value "GND") (footprint "marbles:")
+    )
+    (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/8f9804c7-f5e1-4bd5-a6d8-4b0c1afa76cd"
+      (reference "#GND0104") (unit 1) (value "GND") (footprint "marbles:")
+    )
+    (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/96d41816-d796-4751-be53-282c0d2f191d"
+      (reference "#GND0105") (unit 1) (value "GND") (footprint "tides:")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/a4f013fb-3226-4c79-a4f5-b38b36503c74"
       (reference "#P+01") (unit 1) (value "VCC") (footprint "tides:")
@@ -672,8 +678,8 @@
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/a965a094-e4cb-486d-a605-b0efb9d7cac9"
       (reference "IC3") (unit 1) (value "R-78E3.3-0.5") (footprint "tides:WE78")
     )
-    (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/3d0e5852-9e66-4e68-a74c-5ff7a01cacaa"
-      (reference "IC4") (unit 1) (value "DAC8164ICPW") (footprint "tides:SOP65P640X110-16N")
+    (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/e22b2370-06b0-47cb-aeca-4d856826ff88"
+      (reference "IC4") (unit 1) (value "DAC8565") (footprint "Package_SO:TSSOP-16_4.4x5mm_P0.65mm")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/32637845-58da-431b-a7e7-d27a6b2f2a5e"
       (reference "IC5") (unit 1) (value "LD2981ABU33") (footprint "tides:SOT89")
