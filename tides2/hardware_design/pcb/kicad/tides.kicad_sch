@@ -490,10 +490,10 @@
       (reference "C8") (unit 1) (value "100n") (footprint "tides:C0402")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/8f3be29f-e0e6-49f3-b67d-8050f8e04ac1"
-      (reference "C9") (unit 1) (value "10u") (footprint "tides:PANASONIC_A")
+      (reference "C9") (unit 1) (value "10u") (footprint "tides:PANASONIC_B")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/b70fce1b-0777-4a06-bd94-ba68e200f34c"
-      (reference "C10") (unit 1) (value "10u") (footprint "tides:PANASONIC_A")
+      (reference "C10") (unit 1) (value "10u") (footprint "tides:PANASONIC_B")
     )
     (path "/bab8038e-b968-4166-ad4a-278d45c8130d/f85b4784-ca3b-476c-9201-4905d1257f5e"
       (reference "C11") (unit 1) (value "20p") (footprint "tides:C0402")
@@ -550,7 +550,7 @@
       (reference "C28") (unit 1) (value "1.0n") (footprint "tides:C0402")
     )
     (path "/8df13ecb-51df-4e43-896f-6c461fa80c07/61223135-4d12-46c7-b286-bcb31938fa31"
-      (reference "C29") (unit 1) (value "10u") (footprint "tides:PANASONIC_A")
+      (reference "C29") (unit 1) (value "10u") (footprint "tides:PANASONIC_B")
     )
     (path "/4198294e-7873-43fb-a6fa-eb84e6f87311/5987a581-cf73-4c47-932d-f082b427dba4"
       (reference "C30") (unit 1) (value "100n") (footprint "tides:C0402")
@@ -613,7 +613,7 @@
       (reference "C49") (unit 1) (value "100n") (footprint "tides:C0402")
     )
     (path "/863284ae-40ac-45bd-8d5b-bbfd94275ef8/39aad347-3882-4c47-9f68-3b320afea0a4"
-      (reference "C50") (unit 1) (value "10u") (footprint "tides:PANASONIC_A")
+      (reference "C50") (unit 1) (value "10u") (footprint "tides:PANASONIC_B")
     )
     (path "/a8bbf311-b0d5-4fc5-97c5-7abb779bee43/5e0606bd-38ff-49a8-8bff-70211d40f9ed"
       (reference "C51") (unit 1) (value "100n") (footprint "tides:C0402")
