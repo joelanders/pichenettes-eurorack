@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "peaks")(type "KiCad")(uri "$(KIPRJMOD)/peaks.pretty")(options "")(descr ""))
+)
