@@ -3848,7 +3848,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 134.62 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 06b3006a-1431-4cfc-b622-2d08e0b5115c)
-    (property "Reference" "#GND2" (at 134.62 195.58 0)
+    (property "Reference" "#GND02" (at 134.62 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 132.08 198.12 0)
@@ -3864,7 +3864,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND2") (unit 1)
+          (reference "#GND02") (unit 1)
         )
       )
     )
@@ -3957,7 +3957,7 @@
   (symbol (lib_id "peaks-eagle-import:+3V3") (at 347.98 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0e6d73bb-0528-4058-ad57-9e3d2399e28a)
-    (property "Reference" "#+3V11" (at 347.98 88.9 0)
+    (property "Reference" "#+3V011" (at 347.98 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 345.44 93.98 90)
@@ -3973,7 +3973,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#+3V11") (unit 1)
+          (reference "#+3V011") (unit 1)
         )
       )
     )
@@ -3982,7 +3982,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 157.48 248.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0e7ebf19-401e-4ed7-8110-1db3404d51ba)
-    (property "Reference" "#GND10" (at 157.48 248.92 0)
+    (property "Reference" "#GND010" (at 157.48 248.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 154.94 251.46 0)
@@ -3998,7 +3998,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND10") (unit 1)
+          (reference "#GND010") (unit 1)
         )
       )
     )
@@ -4060,7 +4060,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 236.22 264.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 14252de0-3b51-481f-b857-6ae0527bd759)
-    (property "Reference" "#GND64" (at 236.22 264.16 0)
+    (property "Reference" "#GND064" (at 236.22 264.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 233.68 266.7 0)
@@ -4076,7 +4076,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND64") (unit 1)
+          (reference "#GND064") (unit 1)
         )
       )
     )
@@ -4163,7 +4163,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 127 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 23f9d743-95ba-490d-be53-7dda3aa21d5a)
-    (property "Reference" "#GND57" (at 127 99.06 0)
+    (property "Reference" "#GND057" (at 127 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 124.46 101.6 0)
@@ -4179,7 +4179,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND57") (unit 1)
+          (reference "#GND057") (unit 1)
         )
       )
     )
@@ -4214,7 +4214,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 261.62 218.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2fa69f3a-24b9-4abc-8975-d0c4160ec566)
-    (property "Reference" "#GND7" (at 261.62 218.44 0)
+    (property "Reference" "#GND07" (at 261.62 218.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 259.08 220.98 0)
@@ -4230,7 +4230,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND7") (unit 1)
+          (reference "#GND07") (unit 1)
         )
       )
     )
@@ -4239,7 +4239,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 347.98 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 32228867-5c50-47ed-8df0-700dc99f2c41)
-    (property "Reference" "#GND67" (at 347.98 109.22 0)
+    (property "Reference" "#GND067" (at 347.98 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 345.44 111.76 0)
@@ -4255,7 +4255,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND67") (unit 1)
+          (reference "#GND067") (unit 1)
         )
       )
     )
@@ -4368,7 +4368,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 86.36 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4ad633d7-1861-436e-9683-0d9e0d283b73)
-    (property "Reference" "#GND5" (at 86.36 195.58 0)
+    (property "Reference" "#GND05" (at 86.36 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 83.82 198.12 0)
@@ -4384,7 +4384,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND5") (unit 1)
+          (reference "#GND05") (unit 1)
         )
       )
     )
@@ -4393,7 +4393,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 269.24 259.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4b97d2c0-c7ab-4e75-a78e-c51fac3de97a)
-    (property "Reference" "#GND65" (at 269.24 259.08 0)
+    (property "Reference" "#GND065" (at 269.24 259.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 266.7 261.62 0)
@@ -4409,7 +4409,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND65") (unit 1)
+          (reference "#GND065") (unit 1)
         )
       )
     )
@@ -4418,7 +4418,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 299.72 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4bc1fdc4-f5db-4298-86d5-6269aac573bb)
-    (property "Reference" "#GND30" (at 299.72 139.7 0)
+    (property "Reference" "#GND030" (at 299.72 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 297.18 142.24 0)
@@ -4434,7 +4434,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND30") (unit 1)
+          (reference "#GND030") (unit 1)
         )
       )
     )
@@ -4443,7 +4443,7 @@
   (symbol (lib_id "peaks-eagle-import:+3V3") (at 236.22 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4e60fc1d-70e6-40f6-beab-9ede50318838)
-    (property "Reference" "#+3V8" (at 236.22 233.68 0)
+    (property "Reference" "#+3V08" (at 236.22 233.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 233.68 238.76 90)
@@ -4459,7 +4459,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#+3V8") (unit 1)
+          (reference "#+3V08") (unit 1)
         )
       )
     )
@@ -4495,7 +4495,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 218.44 182.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 53174a05-72f9-405a-a8ff-f901429acb68)
-    (property "Reference" "#GND12" (at 218.44 182.88 0)
+    (property "Reference" "#GND012" (at 218.44 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 215.9 185.42 0)
@@ -4511,7 +4511,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND12") (unit 1)
+          (reference "#GND012") (unit 1)
         )
       )
     )
@@ -4570,7 +4570,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 91.44 248.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5b8c685e-c599-4518-a30f-e1473bed1125)
-    (property "Reference" "#GND18" (at 91.44 248.92 0)
+    (property "Reference" "#GND018" (at 91.44 248.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 88.9 251.46 0)
@@ -4586,7 +4586,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND18") (unit 1)
+          (reference "#GND018") (unit 1)
         )
       )
     )
@@ -4595,7 +4595,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 320.04 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5d7ffb31-7457-462a-be7a-ce1afc574a53)
-    (property "Reference" "#GND59" (at 320.04 68.58 0)
+    (property "Reference" "#GND059" (at 320.04 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 317.5 71.12 0)
@@ -4611,7 +4611,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND59") (unit 1)
+          (reference "#GND059") (unit 1)
         )
       )
     )
@@ -4674,7 +4674,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 218.44 210.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 60c80e20-8aea-4e1f-87dc-7887e1d81e17)
-    (property "Reference" "#GND13" (at 218.44 210.82 0)
+    (property "Reference" "#GND013" (at 218.44 210.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 215.9 213.36 0)
@@ -4690,7 +4690,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND13") (unit 1)
+          (reference "#GND013") (unit 1)
         )
       )
     )
@@ -4699,7 +4699,7 @@
   (symbol (lib_id "peaks-eagle-import:+3V3") (at 157.48 213.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 65afda4f-e12c-4fc0-8318-baab68efdbfc)
-    (property "Reference" "#+3V3" (at 157.48 213.36 0)
+    (property "Reference" "#+3V03" (at 157.48 213.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 154.94 218.44 90)
@@ -4715,7 +4715,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#+3V3") (unit 1)
+          (reference "#+3V03") (unit 1)
         )
       )
     )
@@ -4724,7 +4724,7 @@
   (symbol (lib_id "peaks-eagle-import:+3V3") (at 139.7 48.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6961e4b4-7e4c-43f6-8904-c61588d76061)
-    (property "Reference" "#+3V12" (at 139.7 48.26 0)
+    (property "Reference" "#+3V012" (at 139.7 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 137.16 53.34 90)
@@ -4740,7 +4740,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#+3V12") (unit 1)
+          (reference "#+3V012") (unit 1)
         )
       )
     )
@@ -4807,7 +4807,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 109.22 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6ac8dead-603b-4599-91bf-992f67db0450)
-    (property "Reference" "#GND1" (at 109.22 195.58 0)
+    (property "Reference" "#GND01" (at 109.22 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 106.68 198.12 0)
@@ -4823,7 +4823,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND1") (unit 1)
+          (reference "#GND01") (unit 1)
         )
       )
     )
@@ -4832,7 +4832,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 99.06 71.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7265c915-7a75-4f5d-8232-f5c22d228e81)
-    (property "Reference" "#GND56" (at 99.06 71.12 0)
+    (property "Reference" "#GND056" (at 99.06 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 96.52 73.66 0)
@@ -4848,7 +4848,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND56") (unit 1)
+          (reference "#GND056") (unit 1)
         )
       )
     )
@@ -4909,7 +4909,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 269.24 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 799d3556-1bd1-4c87-b13e-adc290249749)
-    (property "Reference" "#GND9" (at 269.24 55.88 0)
+    (property "Reference" "#GND09" (at 269.24 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 266.7 58.42 0)
@@ -4925,7 +4925,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND9") (unit 1)
+          (reference "#GND09") (unit 1)
         )
       )
     )
@@ -4960,7 +4960,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 109.22 248.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7b33c149-a717-4d79-bea0-e0b3fb1e66c9)
-    (property "Reference" "#GND31" (at 109.22 248.92 0)
+    (property "Reference" "#GND031" (at 109.22 248.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 106.68 251.46 0)
@@ -4976,7 +4976,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND31") (unit 1)
+          (reference "#GND031") (unit 1)
         )
       )
     )
@@ -5127,7 +5127,7 @@
     (property "Value" "EVQQ2" (at 316.23 55.245 90)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "peaks:EVQ-Q2" (at 320.04 58.42 0)
+    (property "Footprint" "Library:k2-1808 pushbutton switch" (at 320.04 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 320.04 58.42 0)
@@ -5175,7 +5175,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 347.98 68.58 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 94bb95d2-4676-473e-bdeb-e883c9ca6c5e)
-    (property "Reference" "#GND58" (at 347.98 68.58 0)
+    (property "Reference" "#GND058" (at 347.98 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 350.52 71.12 0)
@@ -5191,7 +5191,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND58") (unit 1)
+          (reference "#GND058") (unit 1)
         )
       )
     )
@@ -5345,7 +5345,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 180.34 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b4d1933d-ff12-4fbc-812c-63819b3aba6f)
-    (property "Reference" "#GND55" (at 180.34 121.92 0)
+    (property "Reference" "#GND055" (at 180.34 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 177.8 124.46 0)
@@ -5361,7 +5361,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND55") (unit 1)
+          (reference "#GND055") (unit 1)
         )
       )
     )
@@ -5552,7 +5552,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 160.02 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c6780bff-b5ac-4646-97da-c922bc837a63)
-    (property "Reference" "#GND3" (at 160.02 195.58 0)
+    (property "Reference" "#GND03" (at 160.02 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 157.48 198.12 0)
@@ -5568,7 +5568,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND3") (unit 1)
+          (reference "#GND03") (unit 1)
         )
       )
     )
@@ -5604,7 +5604,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 243.84 218.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c85a7766-7872-459d-8d12-919157fd0030)
-    (property "Reference" "#GND6" (at 243.84 218.44 0)
+    (property "Reference" "#GND06" (at 243.84 218.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 241.3 220.98 0)
@@ -5620,7 +5620,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND6") (unit 1)
+          (reference "#GND06") (unit 1)
         )
       )
     )
@@ -5629,7 +5629,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 139.7 248.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cefb6709-2629-4fa9-a6c4-b218eaf3a216)
-    (property "Reference" "#GND11" (at 139.7 248.92 0)
+    (property "Reference" "#GND011" (at 139.7 248.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 137.16 251.46 0)
@@ -5645,7 +5645,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND11") (unit 1)
+          (reference "#GND011") (unit 1)
         )
       )
     )
@@ -5733,7 +5733,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 368.3 144.78 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d63495d9-4ddf-46b2-aed3-e83a9d771750)
-    (property "Reference" "#GND61" (at 368.3 144.78 0)
+    (property "Reference" "#GND061" (at 368.3 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 365.76 147.32 0)
@@ -5749,7 +5749,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND61") (unit 1)
+          (reference "#GND061") (unit 1)
         )
       )
     )
@@ -5758,7 +5758,7 @@
   (symbol (lib_id "peaks-eagle-import:+3V3") (at 109.22 213.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d849bfb6-f8bf-4286-b891-4ed230d505e7)
-    (property "Reference" "#+3V10" (at 109.22 213.36 0)
+    (property "Reference" "#+3V010" (at 109.22 213.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 106.68 218.44 90)
@@ -5774,7 +5774,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#+3V10") (unit 1)
+          (reference "#+3V010") (unit 1)
         )
       )
     )
@@ -5783,7 +5783,7 @@
   (symbol (lib_id "peaks-eagle-import:GND") (at 91.44 132.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dac4263d-6edb-4b8e-870e-8780a21e84e4)
-    (property "Reference" "#GND8" (at 91.44 132.08 0)
+    (property "Reference" "#GND08" (at 91.44 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 88.9 134.62 0)
@@ -5799,7 +5799,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#GND8") (unit 1)
+          (reference "#GND08") (unit 1)
         )
       )
     )
@@ -5856,7 +5856,7 @@
   (symbol (lib_id "peaks-eagle-import:+3V3") (at 180.34 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e980fd1b-022a-4a8d-a372-164b48421cdb)
-    (property "Reference" "#+3V2" (at 180.34 30.48 0)
+    (property "Reference" "#+3V02" (at 180.34 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 177.8 35.56 90)
@@ -5872,7 +5872,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#+3V2") (unit 1)
+          (reference "#+3V02") (unit 1)
         )
       )
     )
@@ -5881,7 +5881,7 @@
   (symbol (lib_id "peaks-eagle-import:+3V3") (at 320.04 35.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid eb197208-7379-4394-b36d-0b2b1a0f3c8a)
-    (property "Reference" "#+3V5" (at 320.04 35.56 0)
+    (property "Reference" "#+3V05" (at 320.04 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 317.5 40.64 90)
@@ -5897,7 +5897,7 @@
     (instances
       (project "peaks"
         (path "/bd420fc4-1914-47bd-b578-d7985b1e91e3/3235c98c-13b7-4d0a-9872-590e6ec67bbe"
-          (reference "#+3V5") (unit 1)
+          (reference "#+3V05") (unit 1)
         )
       )
     )
@@ -5968,7 +5968,7 @@
     (property "Value" "EVQQ2" (at 341.63 42.545 90)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "peaks:EVQ-Q2" (at 345.44 45.72 0)
+    (property "Footprint" "Library:k2-1808 pushbutton switch" (at 345.44 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 345.44 45.72 0)
