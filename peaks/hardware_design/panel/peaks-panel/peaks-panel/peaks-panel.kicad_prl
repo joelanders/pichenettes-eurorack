@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 51,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -64,11 +64,11 @@
       39,
       40
     ],
-    "visible_layers": "fffffef_ffffffff",
+    "visible_layers": "f7fffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "peaks.kicad_prl",
+    "filename": "peaks-panel.kicad_prl",
     "version": 3
   },
   "project": {
