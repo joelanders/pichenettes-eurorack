@@ -214,8 +214,6 @@
     )
 
     (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 0a6aba73-f8ce-4e58-97e3-8e8601b50755))
-  (gr_line (start 117 175.499992) (end 157.299917 175.499992)
-    (stroke (width 0.099836) (type solid)) (layer "F.Mask") (tstamp 15801e70-dfcf-488e-8ff1-685739f7485c))
   (gr_poly
     (pts
       (xy 128.097076 71.866162)
@@ -811,8 +809,6 @@
     )
 
     (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 26f1b810-d1e2-4214-be7b-37cec95e90e3))
-  (gr_line (start 157.299917 175.499992) (end 157.299917 47)
-    (stroke (width 0.099836) (type solid)) (layer "F.Mask") (tstamp 30df956e-daea-4f13-b86f-7d1dbde5299b))
   (gr_poly
     (pts
       (xy 129.908983 85.873669)
@@ -2199,8 +2195,6 @@
     )
 
     (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp 8a41e12f-06c8-4377-9a48-d53fc77f4d86))
-  (gr_line (start 157.299917 47) (end 117 47)
-    (stroke (width 0.099836) (type solid)) (layer "F.Mask") (tstamp 8b436618-99ca-479f-90d3-bea490a3538e))
   (gr_poly
     (pts
       (xy 144.218542 126.366447)
@@ -5076,8 +5070,6 @@
     )
 
     (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp ddbd1441-f7bb-485a-a85d-ac55b0f9ee07))
-  (gr_line (start 117 47) (end 117 175.499992)
-    (stroke (width 0.099836) (type solid)) (layer "F.Mask") (tstamp eb750b33-cdc6-4983-abfa-ebec3ebe62bf))
   (gr_line (start 145.207004 89.016122) (end 145.022311 88.983144)
     (stroke (width 0.099836) (type solid)) (layer "Edge.Cuts") (tstamp 00146ff6-6752-4c3a-be3d-be737b9cfc86))
   (gr_line (start 145.740677 118.122566) (end 145.910981 118.055425)
@@ -9261,50 +9253,6 @@
     (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
   )
 
-  (group "" (id 47ee426e-a1d0-4af4-b5f3-0e3af2efdc14)
-    (members
-      0a6aba73-f8ce-4e58-97e3-8e8601b50755
-      15801e70-dfcf-488e-8ff1-685739f7485c
-      177cdce1-b785-4845-b5de-74f57b547416
-      1d7621fb-4e93-4b93-a044-00148b3b453c
-      229e6f02-6239-4aeb-8fb2-2c3d1a824c62
-      26f1b810-d1e2-4214-be7b-37cec95e90e3
-      30df956e-daea-4f13-b86f-7d1dbde5299b
-      3107cf1a-e74e-4453-bdf5-12f4ce040cfe
-      32593e04-c3f7-406d-982c-f27116657c21
-      3b5e0ae0-f4c9-44b8-962e-10395ea06863
-      491b890c-2232-4839-b041-24ec73b41252
-      4d9e5179-a039-4aaf-a430-e8a1ab8ee5f4
-      4f1096e7-977b-4c2b-9a2c-1ff712d44dd3
-      54ca5e5a-e7d2-4a84-8d7f-702cb3d03a0d
-      677c2383-86b7-4149-8da9-2d77ab1e291d
-      6a375065-26f5-4aa7-8526-efb0510b4a53
-      6ef6838f-16d9-4bdf-9f01-6688b2ce9e66
-      75820b06-e7da-40d4-838f-91aa0765c156
-      75e99e4d-6afe-46d7-932f-2df21877104e
-      856fc9a0-5e8b-461b-9b2b-176353671a7c
-      8a41e12f-06c8-4377-9a48-d53fc77f4d86
-      8b436618-99ca-479f-90d3-bea490a3538e
-      8da107b0-5a90-427f-9341-30d887aacfa1
-      8de45f6d-01ef-4843-a97d-272fb56a8e02
-      91b8bfa6-75bf-4d6d-aa0e-e0a5b23f06aa
-      98756855-c387-480c-b065-acc4b0c46080
-      9a49f475-832c-468b-b657-2f0639f6cd25
-      a27dd4ac-5f2d-42b9-9827-88210ca423b5
-      a4d2e25d-446e-44c1-af7a-d6844d1b3fa9
-      aabccdbb-ff2b-4e0d-9f3e-823d843d0076
-      b162fb42-b7db-4a61-8d0e-379af7c383c8
-      bae1d536-a6a1-49f8-9901-d687e4e06d49
-      ca954f82-07bd-4d53-bbe7-aa0c104c5fc7
-      ce4b9477-1c27-4070-b6f3-3e644a62516f
-      d03e7e41-3cf9-4957-a9ce-f137e8d01156
-      d0675d99-37f1-4bea-b49c-4b126ecece76
-      d1dd0172-5ef7-4c9a-8506-63f9c6821038
-      d9c76251-6093-4fbc-b730-c24c8a61adc7
-      ddbd1441-f7bb-485a-a85d-ac55b0f9ee07
-      eb750b33-cdc6-4983-abfa-ebec3ebe62bf
-    )
-  )
   (group "" (id 980d81d6-a080-4bd8-aafe-85279cc9dcfa)
     (members
       023de572-e5a0-4717-be8f-198e87e0423c

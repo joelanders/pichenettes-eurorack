@@ -39,4 +39,6 @@ TARGET         = peaks_bootloader
 PACKAGES       = peaks/bootloader peaks/drivers stmlib/utils stmlib/system \
 		stm_audio_bootloader/fsk
 
+TOOLCHAIN_PATH ?= /usr/local/arm-4.8.3/
+PGM_SERIAL_PORT ?= /dev/tty.usbserial-1130
 include stmlib/makefile.inc
